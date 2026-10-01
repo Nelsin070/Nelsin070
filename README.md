@@ -11,11 +11,14 @@ I work with Tailwind CSS and Supabase, and I also have a background in IT suppor
 ## 🌐 Where to find me
 
 <p align="left">
-  <a href="https://github.com/Nelson070">
-    <img src="https://img.shields.io/badge/GitHub-Nelson070-181717?style=for-the-badge&logo=github" />
+  <a href="https://github.com/Nelsin070">
+    <img src="https://img.shields.io/badge/GitHub-Nelsin070-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="[your LinkedIn link]">
+  <a href="https://www.linkedin.com/in/nelson-alves-52bb172b9/">
     <img src="https://img.shields.io/badge/LinkedIn-Nelson%20Alves%20Pereira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/nelsonalvz_12/">
+    <img src="https://img.shields.io/badge/Instagram-nelsonalvz_12-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:alvesnelson754@gmail.com">
     <img src="https://img.shields.io/badge/Email-alvesnelson754@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
