@@ -65,10 +65,10 @@ I work with Tailwind CSS and Supabase, and I also have a background in IT suppor
 
 | Project | What it is | Stack | Links |
 | --- | --- | --- | --- |
-| **Aritmática Gabaritando** | Study platform with landing page, student dashboard, admin area and class/login flow | React, Supabase | [Repo]([repo link]) · [Demo]([demo link]) |
-| **Maquisul Locação** | CRM portal to manage equipment rental referrals | React, Supabase | [Repo]([repo link]) · [Demo]([demo link]) |
-| **Customer Satisfaction Dashboard** | Login, filters, charts, AI chat assistant and Excel export | HTML, JavaScript | [Repo]([repo link]) · [Demo]([demo link]) |
-| **Fecoimp Trade Fair Game** | Interactive game for a construction company's stand at a local trade fair | [stack] | [Repo]([repo link]) · [Demo]([demo link]) |
+| **Arimática Gabaritando** | Study platform with landing page, student dashboard, admin area and class/login flow | React, Supabase | https://frontend-plataforma-ari.vercel.app/ |
+| **Maquisul Locação** | CRM portal to manage equipment rental referrals | React, Supabase | https://site-novo-lider.vercel.app/ |
+| **Customer Satisfaction Dashboard** | Login, filters, charts, AI chat assistant and Excel export | HTML, JavaScript | https://pesquisa-satisfa.vercel.app/ |
+| **Fecoimp Trade Fair Game** | Interactive game for a construction company's stand at a local trade fair | [stack] | https://quiz-alfa.vercel.app/ |
 
 ---
 
